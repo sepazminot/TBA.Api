@@ -27,6 +27,10 @@ x86/
 [Aa][Rr][Mm]/
 [Aa][Rr][Mm]64/
 bld/
+!BibliotecaDeClases1/
+!BibliotecaDeClases2/
+!ProyectoConsola/
+!ProyectoMVC/
 [Oo]ut/
 [Ll]og/
 [Ll]ogs/
